@@ -11,8 +11,10 @@ I am a Senior Scientist at Sanofi working on AI-driven Drug Discovery. With over
 ## 💻 Skills & Technologies
 
 ### Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
